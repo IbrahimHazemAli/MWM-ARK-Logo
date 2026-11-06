@@ -1,0 +1,10 @@
+{
+  "Images": [
+    {
+      "URL": "https://i.postimg.cc/RFFPW2WJ/mindwipe-banner.png",
+      "Pos": "BottomRight",
+      "Persist": true,
+      "FadeTime": 5
+    }
+  ]
+}
