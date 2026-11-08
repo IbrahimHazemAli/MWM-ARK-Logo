@@ -2,7 +2,7 @@
   "Images": [
     {
       "URL": "https://i.postimg.cc/RFFPW2WJ/mindwipe-banner.png",
-      "Pos": "BottomRight",
+      "Pos": "BottomLeft",
       "Persist": true,
       "FadeTime": 5
     }
